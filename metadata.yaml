@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42984
 description: Letters from Pitt, 1782-1804.--Sketch of Pitt by W. Wilberforce.--Letters
   from friends, 1786-1832.--Home letters, 1814-1832.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44912#Private-Papers-of-William-Wilberforce
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
