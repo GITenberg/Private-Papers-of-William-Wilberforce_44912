@@ -1,0 +1,35 @@
+_repo: Private-Papers-of-William-Wilberforce_44912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilberforce, William
+    alias: Wilberforce, W. (William)
+    birthdate: 1759
+    deathdate: 1833
+    gutenberg_agent_id: '3635'
+    url: http://www.gutenberg.org/2009/agents/3635
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Wilberforce
+    - http://fr.wikipedia.org/wiki/William_Wilberforce
+  editor:
+    agent_name: Wilberforce, Anna Maria
+    gutenberg_agent_id: '42984'
+    url: http://www.gutenberg.org/2009/agents/42984
+description: Letters from Pitt, 1782-1804.--Sketch of Pitt by W. Wilberforce.--Letters
+  from friends, 1786-1832.--Home letters, 1814-1832.
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilberforce, William, 1759-1833'
+- !lcc 'DA'
+title: Private Papers of William Wilberforce
+url: http://www.gutenberg.org/ebooks/44912
